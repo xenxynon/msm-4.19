@@ -279,6 +279,7 @@ gen_headers_out_arm = [
     "linux/if_cablemodem.h",
     "linux/if_eql.h",
     "linux/if_ether.h",
+    "linux/bpf_perf_event.h",
     "linux/if_fc.h",
     "linux/if_fddi.h",
     "linux/if_frad.h",
